@@ -1,0 +1,20 @@
+{
+	"path": "/root/Music-Live-on-Bilibili",
+	"musicapi": "https://qq.papapoi.com/163music/",
+	"freespace": "15360",
+	"gift": "0",
+	"rtmp": {
+		"url": "rtmp://txy.live-send.acg.tv/live-txy/",
+		"code": "?streamname=live_438880875_25974443&key=08673835a001e9f8f01263161ba9afc4",
+		"bitrate": "192"
+	},
+	"danmu": {
+		"cookie": "INTVER=1; _uuid=9646DD7C-F598-AD5A-C72D-4C641B47035676632infoc; buvid3=E5CD3F15-5CEE-448F-8490-AFFD2DEA80E253946infoc; sid=9nsdzcjj; LIVE_BUVID=AUTO4015819206776430; CURRENT_FNVAL=16; rpdid=|(uk)Y|~~~u|0J'ul)JR~RR)m; Hm_lvt_8a6e55dbd2870f0f5bc9194cddf32a02=1582180416,1583387406,1583477248,1583477929; Hm_lpvt_8a6e55dbd2870f0f5bc9194cddf32a02=1583647692; im_notify_type_438880875=0; DedeUserID=432405191; DedeUserID__ckMd5=98b4ed4c2360cb30; SESSDATA=04d52feb%2C1599375880%2C516f5*31; bili_jct=60b2fed91f1a29982d149ce6fe08bb80; _dfcaptcha=616467809fea66a5ee49e4c3b5f144ef; PVID=3",
+		"token": "60b2fed91f1a29982d149ce6fe08bb80",
+		"roomid": "21821945",
+		"size": "20"
+	},
+	"nightvideo": {
+		"use": "1"
+	}
+}
